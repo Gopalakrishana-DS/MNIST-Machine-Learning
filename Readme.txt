@@ -1,2 +1,0 @@
-
-This repository contains my machine learning model trained on the MNIST dataset. The model is designed to recognize and classify handwritten digits (0-9) with high accuracy. It's implemented using [TensorFlow, Numpy], and the code includes both the training and evaluation scripts. You can use this model for digit recognition in various applications or as a learning resource for machine learning enthusiasts. Feel free to explore the code and experiment with different configurations.
